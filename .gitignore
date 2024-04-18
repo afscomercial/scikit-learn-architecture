@@ -47,6 +47,5 @@ dependencies/
 *.zip
 
 #data
-*.csv
 *.xlsx
 *.xsd
