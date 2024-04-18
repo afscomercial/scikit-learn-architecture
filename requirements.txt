@@ -1,0 +1,7 @@
+joblib
+numpy
+Flask
+jsonify
+numpy
+sklearn
+pandas
